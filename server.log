@@ -1,0 +1,1159 @@
+2021-12-15 [07:00:23.185] [Server thread/INFO]: Loading server configuration
+2021-12-15 [07:00:23.200] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [07:00:23.203] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [07:00:23.207] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [07:00:23.228] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [07:00:23.228] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [07:00:23.444] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [07:00:23.643] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [07:00:23.651] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-12-15 [07:00:23.713] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [07:00:23.718] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [07:00:23.743] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [07:00:23.743] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [07:00:23.744] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-15 [07:00:23.744] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [07:00:23.744] [Server thread/INFO]: Done (0.561s)! For help, type "help" or "?"
+2021-12-15 [07:00:24.368] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2021-12-15 [07:00:32.223] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2021-12-15 [07:00:33.188] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2021-12-15 [07:00:34.371] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2021-12-15 [07:00:35.403] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2021-12-15 [07:00:35.887] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2021-12-15 [07:00:36.290] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2021-12-15 [07:00:36.589] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2021-12-15 [07:00:36.865] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2021-12-15 [07:00:37.154] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2021-12-15 [07:00:37.414] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2021-12-15 [07:03:07.657] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [07:03:07.660] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [07:03:07.726] [Server thread/INFO]: Stopping other threads
+2021-12-15 [07:03:11.465] [Server thread/INFO]: Loading server configuration
+2021-12-15 [07:03:11.490] [Server thread/INFO]: Selected English (ind) as the base language
+2021-12-15 [07:03:11.493] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [07:03:11.497] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [07:03:11.519] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [07:03:11.520] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [07:03:11.745] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [07:03:12.045] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [07:03:12.081] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [07:03:12.082] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [07:03:12.095] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [07:03:12.095] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [07:03:12.096] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-15 [07:03:12.096] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [07:03:12.096] [Server thread/INFO]: Done (0.632s)! For help, type "help" or "?"
+2021-12-15 [07:03:38.294] [Server thread/INFO]: Usage: /clear [player] [item] [maxCount]
+2021-12-15 [07:03:40.452] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [07:03:40.454] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [07:03:40.667] [Server thread/INFO]: Stopping other threads
+2021-12-15 [07:03:47.518] [Server thread/INFO]: Loading server configuration
+2021-12-15 [07:03:47.542] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [07:03:47.546] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [07:03:47.549] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [07:03:47.570] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [07:03:47.571] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [07:03:47.788] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [07:03:47.899] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [07:03:47.933] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [07:03:47.934] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [07:03:47.946] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [07:03:47.946] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [07:03:47.947] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-15 [07:03:47.948] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [07:03:47.948] [Server thread/INFO]: Done (0.43s)! For help, type "help" or "?"
+2021-12-15 [07:41:09.575] [Server thread/INFO]: Usage: /clear [player] [item] [maxCount]
+2021-12-15 [07:41:29.297] [Server thread/INFO]: [CONSOLE: Opped GuityFlyer6661]
+2021-12-15 [07:41:50.251] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [07:41:50.252] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [07:41:50.292] [Server thread/INFO]: Stopping other threads
+2021-12-15 [07:42:02.062] [Server thread/INFO]: Loading server configuration
+2021-12-15 [07:42:02.085] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [07:42:02.089] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [07:42:02.092] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [07:42:02.114] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [07:42:02.114] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [07:42:02.331] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [07:42:02.446] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [07:42:02.481] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [07:42:02.481] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [07:42:02.495] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [07:42:02.495] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [07:42:02.496] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-15 [07:42:02.496] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [07:42:02.496] [Server thread/INFO]: Done (0.436s)! For help, type "help" or "?"
+2021-12-15 [07:42:07.852] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [07:42:07.854] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [07:42:08.076] [Server thread/INFO]: Stopping other threads
+2021-12-15 [08:06:20.826] [Server thread/INFO]: Loading server configuration
+2021-12-15 [08:06:20.849] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [08:06:20.853] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [08:06:20.856] [Server thread/WARNING]: Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2021-12-15 [08:06:20.856] [Server thread/WARNING]: While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2021-12-15 [08:06:20.856] [Server thread/WARNING]: To enable authentication, set "xbox-auth" to "true" in server.properties.
+2021-12-15 [08:06:20.878] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [08:06:20.878] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [08:06:21.095] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [08:06:21.117] [Server thread/INFO]: Loading MaxEnchants v1.2.2
+2021-12-15 [08:06:21.132] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [08:06:21.189] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [08:06:21.200] [Server thread/INFO]: Enabling MaxEnchants v1.2.2
+2021-12-15 [08:06:21.204] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 4, it will not be included!
+2021-12-15 [08:06:21.204] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 15, it will not be included!
+2021-12-15 [08:06:21.204] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 22, it will not be included!
+2021-12-15 [08:06:21.205] [Server thread/CRITICAL]: InvalidArgumentException: "Cannot use non-existing permission "maxenchants.enchant"" (EXCEPTION) in "pmsrc/src/command/Command" at line 107
+--- Stack trace ---
+  #0 plugins/MaxEnchants.phar/src/Xenophilicy/MaxEnchants/MaxEnchants(106): pocketmine\command\Command->setPermission(string[19] maxenchants.enchant)
+  #1 pmsrc/src/plugin/PluginBase(137): Xenophilicy\MaxEnchants\MaxEnchants->onEnable()
+  #2 pmsrc/src/plugin/PluginManager(438): pocketmine\plugin\PluginBase->onEnableStateChange(true)
+  #3 pmsrc/src/Server(1377): pocketmine\plugin\PluginManager->enablePlugin(object Xenophilicy\MaxEnchants\MaxEnchants#23448)
+  #4 pmsrc/src/Server(1003): pocketmine\Server->enablePlugins(object pocketmine\plugin\PluginEnableOrder#23438)
+  #5 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #6 pmsrc/src/PocketMine(326): pocketmine\server()
+  #7 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-15 [08:06:21.205] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-15 [08:06:21.213] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Wed_Dec_15-08.06.21-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-15 [08:06:21.504] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/5628965 or use the ID #5628965.
+2021-12-15 [08:06:21.504] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-15 [08:06:21.504] [Server thread/INFO]: Disabling MaxEnchants v1.2.2
+2021-12-15 [08:06:21.506] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [08:08:08.723] [Server thread/INFO]: Loading server configuration
+2021-12-15 [08:08:08.747] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [08:08:08.750] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [08:08:08.754] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [08:08:08.775] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [08:08:08.776] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [08:08:08.994] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [08:08:09.020] [Server thread/INFO]: Loading MaxEnchants v1.2.2
+2021-12-15 [08:08:09.029] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [08:08:09.097] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [08:08:09.105] [Server thread/INFO]: Enabling MaxEnchants v1.2.2
+2021-12-15 [08:08:09.106] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 4, it will not be included!
+2021-12-15 [08:08:09.106] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 15, it will not be included!
+2021-12-15 [08:08:09.106] [Server thread/WARNING]: [MaxEnchants] Invalid max level found at 22, it will not be included!
+2021-12-15 [08:08:09.107] [Server thread/CRITICAL]: InvalidArgumentException: "Cannot use non-existing permission "maxenchants.enchant"" (EXCEPTION) in "pmsrc/src/command/Command" at line 107
+--- Stack trace ---
+  #0 plugins/MaxEnchants.phar/src/Xenophilicy/MaxEnchants/MaxEnchants(106): pocketmine\command\Command->setPermission(string[19] maxenchants.enchant)
+  #1 pmsrc/src/plugin/PluginBase(137): Xenophilicy\MaxEnchants\MaxEnchants->onEnable()
+  #2 pmsrc/src/plugin/PluginManager(438): pocketmine\plugin\PluginBase->onEnableStateChange(true)
+  #3 pmsrc/src/Server(1377): pocketmine\plugin\PluginManager->enablePlugin(object Xenophilicy\MaxEnchants\MaxEnchants#23448)
+  #4 pmsrc/src/Server(1003): pocketmine\Server->enablePlugins(object pocketmine\plugin\PluginEnableOrder#23438)
+  #5 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #6 pmsrc/src/PocketMine(326): pocketmine\server()
+  #7 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-15 [08:08:09.107] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-15 [08:08:09.111] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Wed_Dec_15-08.08.09-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-15 [08:08:09.112] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-15 [08:08:09.112] [Server thread/INFO]: Disabling MaxEnchants v1.2.2
+2021-12-15 [08:08:09.112] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [08:09:16.103] [Server thread/INFO]: Loading server configuration
+2021-12-15 [08:09:16.126] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [08:09:16.130] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [08:09:16.133] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [08:09:16.155] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [08:09:16.155] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [08:09:16.367] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [08:09:16.388] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [08:09:16.456] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [08:09:16.463] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-15 [08:09:16.491] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [08:09:16.491] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [08:09:16.503] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [08:09:16.503] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [08:09:16.504] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-15 [08:09:16.504] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [08:09:16.504] [Server thread/INFO]: Done (0.402s)! For help, type "help" or "?"
+2021-12-15 [08:09:30.358] [Server thread/INFO]: Unknown command: screen. Use /help for a list of available commands.
+2021-12-15 [08:09:36.170] [Server thread/INFO]: Unknown command: /help. Use /help for a list of available commands.
+2021-12-15 [08:09:42.977] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /clear: Clears items from player inventory
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-12-15 [08:09:42.978] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-12-15 [08:09:42.979] [Server thread/INFO]: /help: Shows the help menu
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /list: Lists all online players
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /particle: Adds particles to a world
+2021-12-15 [08:09:42.980] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /seed: Shows the world seed
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /setrank: the command for set rank
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /setworldspawn: Sets a world's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-15 [08:09:42.981] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /stop: Stops the server
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /time: Changes the time on each world
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /title: Controls screen titles
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-12-15 [08:09:42.982] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-12-15 [08:10:09.780] [Server thread/INFO]: The world's default game mode is now Creative Mode
+2021-12-15 [08:10:29.460] [Server thread/INFO]: Usage: /clear [player] [item] [maxCount]
+2021-12-15 [08:10:37.607] [Server thread/INFO]: That player cannot be found
+2021-12-15 [08:10:45.009] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [08:10:45.010] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-15 [08:10:45.011] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [08:10:45.246] [Server thread/INFO]: Stopping other threads
+2021-12-15 [08:11:04.294] [Server thread/INFO]: Loading server configuration
+2021-12-15 [08:11:04.318] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [08:11:04.321] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [08:11:04.325] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [08:11:04.346] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [08:11:04.346] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [08:11:04.565] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [08:11:04.586] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [08:11:04.686] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [08:11:04.693] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-15 [08:11:04.723] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [08:11:04.723] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [08:11:04.736] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [08:11:04.736] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [08:11:04.737] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-15 [08:11:04.737] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [08:11:04.737] [Server thread/INFO]: Done (0.443s)! For help, type "help" or "?"
+2021-12-15 [08:12:01.212] [Server thread/INFO]: Loading server configuration
+2021-12-15 [08:12:01.236] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [08:12:01.239] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [08:12:01.243] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [08:12:01.268] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [08:12:01.268] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [08:12:01.485] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [08:12:01.506] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [08:12:01.566] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [08:12:01.573] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-15 [08:12:01.603] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [08:12:01.603] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [08:12:01.616] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [08:12:01.617] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [08:12:01.617] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-15 [08:12:01.617] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [08:12:01.618] [Server thread/INFO]: Done (0.406s)! For help, type "help" or "?"
+2021-12-15 [08:17:46.472] [Server thread/INFO]: [NetworkSession: 202.67.47.30 59440] Session opened
+2021-12-15 [08:17:47.124] [Server thread/INFO]: [NetworkSession: 202.67.47.30 59440] Player: GuiltyFlyer6661
+2021-12-15 [08:17:50.893] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.30:59440] logged in with entity id 1 at (world, 256, 52, 256)
+2021-12-15 [08:19:32.073] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-15 [08:35:27.348] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-15 [08:35:27.349] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to client disconnect
+2021-12-15 [08:36:54.073] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-15 [08:36:54.074] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [08:37:09.097] [Server thread/INFO]: Stopping other threads
+2021-12-15 [12:17:30.366] [Server thread/INFO]: Loading server configuration
+2021-12-15 [12:17:30.390] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [12:17:30.393] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [12:17:30.397] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [12:17:30.419] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [12:17:30.419] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [12:17:30.636] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [12:17:30.657] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [12:17:30.758] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [12:17:30.773] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-15 [12:17:30.832] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [12:17:30.835] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [12:17:30.861] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [12:17:30.861] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [12:17:30.862] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-15 [12:17:30.863] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [12:17:30.863] [Server thread/INFO]: Done (0.498s)! For help, type "help" or "?"
+2021-12-15 [12:17:42.023] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-15 [12:17:42.024] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-15 [12:17:42.025] [Server thread/INFO]: Unloading world "world"
+2021-12-15 [12:17:42.071] [Server thread/INFO]: Stopping other threads
+2021-12-15 [13:25:22.063] [Server thread/INFO]: Loading server configuration
+2021-12-15 [13:25:22.087] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-15 [13:25:22.090] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-15 [13:25:22.093] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-15 [13:25:22.115] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-15 [13:25:22.116] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-15 [13:25:22.333] [Server thread/INFO]: Loading resource packs...
+2021-12-15 [13:25:22.360] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-15 [13:25:22.432] [Server thread/INFO]: Preparing world "world"
+2021-12-15 [13:25:22.439] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-15 [13:25:22.468] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-15 [13:25:22.468] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-15 [13:25:22.481] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-15 [13:25:22.482] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-15 [13:25:22.482] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-15 [13:25:22.483] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-15 [13:25:22.483] [Server thread/INFO]: Done (0.421s)! For help, type "help" or "?"
+2021-12-15 [13:35:17.815] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [00:14:36.710] [Server thread/INFO]: Loading server configuration
+2021-12-16 [00:14:36.734] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [00:14:36.738] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [00:14:36.741] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [00:14:36.763] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [00:14:36.763] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [00:14:36.978] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [00:14:37.002] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [00:14:37.009] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [00:14:37.071] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [00:14:37.077] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [00:14:37.080] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [00:14:37.108] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [00:14:37.109] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [00:14:37.122] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [00:14:37.122] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [00:14:37.123] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [00:14:37.123] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [00:14:37.123] [Server thread/INFO]: Done (0.413s)! For help, type "help" or "?"
+2021-12-16 [00:18:36.578] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [00:18:36.580] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [00:18:36.582] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [00:18:36.583] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [00:18:36.635] [Server thread/INFO]: Stopping other threads
+2021-12-16 [00:18:47.763] [Server thread/INFO]: Loading server configuration
+2021-12-16 [00:18:47.786] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [00:18:47.790] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [00:18:47.793] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [00:18:47.814] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [00:18:47.814] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [00:18:48.030] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [00:18:48.055] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [00:18:48.058] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [00:18:48.188] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [00:18:48.195] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [00:18:48.196] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [00:18:48.225] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [00:18:48.225] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [00:18:48.238] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [00:18:48.238] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [00:18:48.239] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [00:18:48.239] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [00:18:48.239] [Server thread/INFO]: Done (0.478s)! For help, type "help" or "?"
+2021-12-16 [00:18:51.794] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [00:18:51.796] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [00:18:51.796] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [00:18:51.796] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [00:18:51.996] [Server thread/INFO]: Stopping other threads
+2021-12-16 [03:18:18.018] [Server thread/INFO]: Loading server configuration
+2021-12-16 [03:18:18.041] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [03:18:18.045] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [03:18:18.048] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [03:18:18.070] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [03:18:18.070] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [03:18:18.281] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [03:18:18.304] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [03:18:18.311] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [03:18:18.397] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [03:18:18.408] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [03:18:18.411] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [03:18:18.440] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [03:18:18.441] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [03:18:18.454] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [03:18:18.454] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [03:18:18.455] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [03:18:18.455] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [03:18:18.456] [Server thread/INFO]: Done (0.439s)! For help, type "help" or "?"
+2021-12-16 [03:18:18.870] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [03:18:18.871] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [03:18:18.871] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [03:22:07.431] [Server thread/INFO]: Loading server configuration
+2021-12-16 [03:22:07.455] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [03:22:07.458] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [03:22:07.462] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [03:22:07.483] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [03:22:07.483] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [03:22:07.701] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [03:22:07.726] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [03:22:07.729] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [03:22:07.816] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [03:22:07.823] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [03:22:07.826] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [03:22:07.853] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [03:22:07.854] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [03:22:07.866] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [03:22:07.866] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [03:22:07.867] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [03:22:07.867] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [03:22:07.867] [Server thread/INFO]: Done (0.438s)! For help, type "help" or "?"
+2021-12-16 [03:22:08.257] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [03:22:08.257] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [03:22:08.257] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [03:22:41.014] [Server thread/INFO]: [NetworkSession: 223.255.224.103 34842] Session opened
+2021-12-16 [03:22:41.716] [Server thread/INFO]: [NetworkSession: 223.255.224.103 34842] Player: GuiltyFlyer6661
+2021-12-16 [03:22:45.466] [Server thread/INFO]: GuiltyFlyer6661[/223.255.224.103:34842] logged in with entity id 1 at (world, 224.0356, 86.6087, 310.1514)
+2021-12-16 [03:24:27.890] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to timeout
+2021-12-16 [03:29:12.436] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [05:00:09.741] [Server thread/INFO]: Loading server configuration
+2021-12-16 [05:00:09.766] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [05:00:09.770] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [05:00:09.773] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [05:00:09.794] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [05:00:09.795] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [05:00:10.012] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [05:00:10.040] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [05:00:10.044] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [05:00:10.162] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [05:00:10.176] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [05:00:10.180] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [05:00:10.236] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [05:00:10.236] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [05:00:10.261] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [05:00:10.261] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [05:00:10.262] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [05:00:10.262] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [05:00:10.262] [Server thread/INFO]: Done (0.522s)! For help, type "help" or "?"
+2021-12-16 [05:00:10.381] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [05:00:10.381] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [05:00:10.381] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [05:00:26.876] [Server thread/INFO]: [NetworkSession: 202.67.47.4 11407] Session opened
+2021-12-16 [05:00:27.620] [Server thread/INFO]: [NetworkSession: 202.67.47.4 11407] Player: GuiltyFlyer6661
+2021-12-16 [05:00:30.950] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.4:11407] logged in with entity id 1 at (world, 224.0356, 86.6087, 310.1514)
+2021-12-16 [05:02:03.085] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [05:02:31.239] [Server thread/INFO]: [CONSOLE: Opped GuiltyFlyer6661]
+2021-12-16 [05:02:56.787] [Server thread/INFO]: Unknown command: welcome. Use /help for a list of available commands.
+2021-12-16 [05:03:04.094] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-16 [05:03:04.094] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /clear: Clears items from player inventory
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /coordinates: Toggle on/off coordinates.
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-12-16 [05:03:04.095] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /help: Shows the help menu
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /list: Lists all online players
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /particle: Adds particles to a world
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-12-16 [05:03:04.096] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /seed: Shows the world seed
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /setrank: the command for set rank
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /setworldspawn: Sets a world's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-12-16 [05:03:04.097] [Server thread/INFO]: /stop: Stops the server
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /time: Changes the time on each world
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /title: Controls screen titles
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-12-16 [05:03:04.098] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-12-16 [05:08:54.101] [Server thread/INFO]: Loading server configuration
+2021-12-16 [05:08:54.124] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [05:08:54.128] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [05:08:54.131] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [05:08:54.153] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [05:08:54.153] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [05:08:54.369] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [05:08:54.391] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [05:08:54.398] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [05:08:54.478] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [05:08:54.488] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [05:08:54.489] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [05:08:54.522] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [05:08:54.522] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [05:08:54.535] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [05:08:54.535] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [05:08:54.536] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [05:08:54.536] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [05:08:54.537] [Server thread/INFO]: Done (0.437s)! For help, type "help" or "?"
+2021-12-16 [05:08:54.955] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [05:08:54.956] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [05:08:54.956] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [05:11:21.237] [Server thread/INFO]: [NetworkSession: 202.67.47.4 11503] Session opened
+2021-12-16 [05:11:21.885] [Server thread/INFO]: [NetworkSession: 202.67.47.4 11503] Player: GuiltyFlyer6661
+2021-12-16 [05:11:25.216] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.4:11503] logged in with entity id 1 at (world, 224.0356, 86.6087, 310.1514)
+2021-12-16 [05:13:03.601] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [05:25:16.009] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [05:25:16.010] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to client disconnect
+2021-12-16 [07:18:21.352] [Server thread/INFO]: [NetworkSession: 202.67.47.11 63578] Session opened
+2021-12-16 [07:18:22.382] [Server thread/INFO]: [NetworkSession: 202.67.47.11 63578] Player: GuiltyFlyer6661
+2021-12-16 [07:18:25.699] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.11:63578] logged in with entity id 2 at (world, 224.0356, 86.6087, 310.1514)
+2021-12-16 [07:19:59.589] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [07:22:34.624] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [07:25:13.082] [Server thread/INFO]: [GuiltyFlyer6661: Given Unknown (137:0) * 1 to GuiltyFlyer6661]
+2021-12-16 [07:25:34.550] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [07:25:34.553] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to timeout
+2021-12-16 [07:44:03.816] [Server thread/INFO]: [NetworkSession: 202.67.47.21 20725] Session opened
+2021-12-16 [07:44:04.508] [Server thread/INFO]: [NetworkSession: 202.67.47.21 20725] Player: GuiltyFlyer6661
+2021-12-16 [07:44:07.855] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.21:20725] logged in with entity id 3 at (world, 226.4892, 67.7534, 317.3604)
+2021-12-16 [07:45:42.737] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [07:47:31.251] [Server thread/INFO]: [GuiltyFlyer6661: Given Unknown (252:0) * 1 to GuiltyFlyer6661]
+2021-12-16 [07:47:57.266] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [07:50:50.199] [Server thread/INFO]: [GuiltyFlyer6661: Enchanting succeeded for GuiltyFlyer6661]
+2021-12-16 [07:52:05.362] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [07:52:05.364] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to client disconnect
+2021-12-16 [09:06:42.986] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [09:06:42.986] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [09:06:42.986] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [09:06:57.979] [Server thread/INFO]: Stopping other threads
+2021-12-16 [09:53:14.169] [Server thread/INFO]: Loading server configuration
+2021-12-16 [09:53:14.194] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [09:53:14.197] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [09:53:14.201] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [09:53:14.223] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [09:53:14.223] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [09:53:14.440] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [09:53:14.467] [Server thread/ERROR]: Could not load plugin 'AutoClearLagg': Incompatible API version (plugin requires one of: 3.0.0)
+2021-12-16 [09:53:14.468] [Server thread/INFO]: Loading MultiWorld v1.7.0-beta3
+2021-12-16 [09:53:14.485] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [09:53:14.486] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [09:53:14.574] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [09:53:14.582] [Server thread/INFO]: Enabling MultiWorld v1.7.0-beta3
+2021-12-16 [09:53:14.587] [Server thread/ERROR]: [MultiWorld] Unable to enable dimensions handling (https://github.com/CzechPMDevs/MultiWorld/issues/237)
+2021-12-16 [09:53:14.602] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [09:53:14.604] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [09:53:14.631] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [09:53:14.632] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [09:53:14.644] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [09:53:14.644] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [09:53:14.645] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-16 [09:53:14.645] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [09:53:14.646] [Server thread/INFO]: Done (0.478s)! For help, type "help" or "?"
+2021-12-16 [09:53:15.012] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [09:53:15.012] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [09:53:15.013] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [09:54:42.252] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-16 [09:54:42.252] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /clear: Clears items from player inventory
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /coordinates: Toggle on/off coordinates.
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-12-16 [09:54:42.253] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /gamerule: Edit world gamerules
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-12-16 [09:54:42.254] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /help: Shows the help menu
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /list: Lists all online players
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /multiworld: MultiWorld commands
+2021-12-16 [09:54:42.255] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /particle: Adds particles to a world
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-12-16 [09:54:42.256] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /seed: Shows the world seed
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /setrank: the command for set rank
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /setworldspawn: Sets a world's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /stop: Stops the server
+2021-12-16 [09:54:42.257] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /time: Changes the time on each world
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /title: Controls screen titles
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-12-16 [09:54:42.258] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-12-16 [09:55:59.371] [Server thread/INFO]: The world's default game mode is now Creative Mode
+2021-12-16 [09:56:07.805] [Server thread/INFO]: [NetworkSession: 110.136.219.159 3141] Session opened
+2021-12-16 [09:56:08.086] [Server thread/INFO]: [NetworkSession: 110.136.219.159 3141] Player: NercyChan
+2021-12-16 [09:56:09.541] [Server thread/INFO]: NercyChan[/110.136.219.159:3141] logged in with entity id 1 at (world, 256, 52, 256)
+2021-12-16 [09:56:47.068] [Server thread/INFO]: [CONSOLE: Opped NercyChan]
+2021-12-16 [09:57:58.939] [Server thread/INFO]: That player cannot be found
+2021-12-16 [09:58:00.527] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to client disconnect
+2021-12-16 [09:58:28.506] [Server thread/INFO]: [NetworkSession: 110.136.219.159 3141] Session opened
+2021-12-16 [09:58:28.777] [Server thread/INFO]: [NetworkSession: 110.136.219.159 3141] Player: NercyChan
+2021-12-16 [09:58:29.641] [Server thread/INFO]: NercyChan[/110.136.219.159:3141] logged in with entity id 2 at (world, 256, 52, 256)
+2021-12-16 [09:59:15.039] [Server thread/INFO]: [CONSOLE: Opped NercyChan]
+2021-12-16 [09:59:21.880] [Server thread/INFO]: That player cannot be found
+2021-12-16 [09:59:33.339] [Server thread/INFO]: You whisper to NercyChan: Hi banh
+2021-12-16 [09:59:33.339] [Server thread/INFO]: [CONSOLE: You whisper to NercyChan: Hi banh]
+2021-12-16 [10:00:49.834] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to timeout
+2021-12-16 [10:01:42.259] [Server thread/INFO]: [NetworkSession: 110.136.219.159 17007] Session opened
+2021-12-16 [10:01:42.661] [Server thread/INFO]: [NetworkSession: 110.136.219.159 17007] Player: NercyChan
+2021-12-16 [10:01:43.669] [Server thread/INFO]: NercyChan[/110.136.219.159:17007] logged in with entity id 3 at (world, 256, 52, 256)
+2021-12-16 [10:02:01.702] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to client disconnect
+2021-12-16 [10:03:29.111] [Server thread/INFO]: [NetworkSession: 202.67.47.19 36229] Session opened
+2021-12-16 [10:03:29.775] [Server thread/INFO]: [NetworkSession: 202.67.47.19 36229] Player: GuiltyFlyer6661
+2021-12-16 [10:03:33.226] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.19:36229] logged in with entity id 4 at (world, 245.7945, 68.4566, 331.0119)
+2021-12-16 [10:04:46.442] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [10:05:08.064] [Server thread/INFO]: [NetworkSession: 36.75.170.49 37081] Session opened
+2021-12-16 [10:05:08.356] [Server thread/INFO]: [NetworkSession: 36.75.170.49 37081] Player: NercyChan
+2021-12-16 [10:05:09.384] [Server thread/INFO]: NercyChan[/36.75.170.49:37081] logged in with entity id 5 at (world, 256, 52, 256)
+2021-12-16 [10:05:19.387] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to timeout
+2021-12-16 [10:05:22.362] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [10:11:15.094] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [10:11:42.669] [Server thread/INFO]: [GuiltyFlyer6661: Given Unknown (137:0) * 64 to GuiltyFlyer6661]
+2021-12-16 [10:16:36.392] [Server thread/INFO]: [NetworkSession: 36.75.170.49 37081] Session opened
+2021-12-16 [10:16:36.743] [Server thread/INFO]: [NetworkSession: 36.75.170.49 37081] Player: NercyChan
+2021-12-16 [10:16:37.578] [Server thread/INFO]: NercyChan[/36.75.170.49:37081] logged in with entity id 6 at (world, 256, 52, 256)
+2021-12-16 [10:16:47.580] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to timeout
+2021-12-16 [10:17:24.398] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [10:17:49.986] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [10:17:49.989] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to timeout
+2021-12-16 [10:19:26.270] [Server thread/INFO]: [NetworkSession: 202.67.47.19 36229] Session opened
+2021-12-16 [10:19:26.943] [Server thread/INFO]: [NetworkSession: 202.67.47.19 36229] Player: GuiltyFlyer6661
+2021-12-16 [10:19:30.372] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.19:36229] logged in with entity id 7 at (world, 282.9003, 66.5718, 358.1279)
+2021-12-16 [10:20:36.663] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [10:21:36.074] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [10:21:36.076] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to timeout
+2021-12-16 [10:24:00.593] [Server thread/INFO]: [NetworkSession: 223.255.224.101 28285] Session opened
+2021-12-16 [10:24:01.470] [Server thread/INFO]: [NetworkSession: 223.255.224.101 28285] Player: GuiltyFlyer6661
+2021-12-16 [10:24:05.363] [Server thread/INFO]: GuiltyFlyer6661[/223.255.224.101:28285] logged in with entity id 8 at (world, 284.5181, 65.7534, 358.2031)
+2021-12-16 [10:25:17.386] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [10:25:33.196] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [10:26:01.166] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [10:26:01.167] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to client disconnect
+2021-12-16 [10:26:58.703] [Server thread/INFO]: [NetworkSession: 223.255.224.101 28285] Session opened
+2021-12-16 [10:26:59.601] [Server thread/INFO]: [NetworkSession: 223.255.224.101 28285] Player: GuiltyFlyer6661
+2021-12-16 [10:27:02.538] [Server thread/INFO]: GuiltyFlyer6661[/223.255.224.101:28285] logged in with entity id 9 at (world, 285.1614, 65.7732, 357.6857)
+2021-12-16 [10:28:10.530] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [10:30:57.326] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [10:36:21.900] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [10:36:21.902] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to client disconnect
+2021-12-16 [11:32:01.459] [Server thread/INFO]: [NetworkSession: 110.136.219.159 17837] Session opened
+2021-12-16 [11:32:01.800] [Server thread/INFO]: [NetworkSession: 110.136.219.159 17837] Player: NercyChan
+2021-12-16 [11:32:02.746] [Server thread/INFO]: NercyChan[/110.136.219.159:17837] logged in with entity id 10 at (world, 256, 52, 256)
+2021-12-16 [11:33:32.405] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to client disconnect
+2021-12-16 [12:17:12.160] [Server thread/INFO]: [NetworkSession: 36.85.39.173 20780] Session opened
+2021-12-16 [12:17:12.512] [Server thread/INFO]: [NetworkSession: 36.85.39.173 20780] Player: nanachan3006
+2021-12-16 [12:17:14.372] [Server thread/INFO]: nanachan3006[/36.85.39.173:20780] logged in with entity id 11 at (world, 256, 52, 256)
+2021-12-16 [12:17:33.949] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [12:18:03.342] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4811] Session opened
+2021-12-16 [12:18:03.824] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4811] Player: GuiltyFlyer6661
+2021-12-16 [12:18:06.123] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.11:4811] logged in with entity id 12 at (world, 286.1127, 69.4826, 366.1687)
+2021-12-16 [12:19:13.381] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [12:19:32.050] [Server thread/INFO]: [GuiltyFlyer6661: Teleported nanachan3006 to GuiltyFlyer6661]
+2021-12-16 [12:19:47.038] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [12:20:12.546] [Server thread/CRITICAL]: TypeError: "natof\rankEasy\manager\ConfigManager::getColorRank(): Return value must be of type string, null returned" (EXCEPTION) in "plugins/rankEasy.phar/src/natof/rankEasy/manager/ConfigManager" at line 35
+--- Stack trace ---
+  #0 plugins/rankEasy.phar/src/natof/rankEasy/event/PlayerListener(28): natof\rankEasy\manager\ConfigManager->getColorRank(string[0] )
+  #1 pmsrc/src/event/RegisteredListener(75): natof\rankEasy\event\PlayerListener->onChat(object pocketmine\event\player\PlayerChatEvent#117703)
+  #2 pmsrc/src/event/Event(62): pocketmine\event\RegisteredListener->callEvent(object pocketmine\event\player\PlayerChatEvent#117703)
+  #3 pmsrc/src/player/Player(1341): pocketmine\event\Event->call()
+  #4 pmsrc/src/network/mcpe/handler/InGamePacketHandler(147): pocketmine\player\Player->chat(string[2] hi)
+  #5 pmsrc/vendor/pocketmine/bedrock-protocol/src/TextPacket(176): pocketmine\network\mcpe\handler\InGamePacketHandler->handleText(object pocketmine\network\mcpe\protocol\TextPacket#115986)
+  #6 pmsrc/src/network/mcpe/NetworkSession(395): pocketmine\network\mcpe\protocol\TextPacket->handle(object pocketmine\network\mcpe\handler\InGamePacketHandler#112368)
+  #7 pmsrc/src/network/mcpe/NetworkSession(358): pocketmine\network\mcpe\NetworkSession->handleDataPacket(object pocketmine\network\mcpe\protocol\TextPacket#115986, string[40] ....GuiltyFlyer6661.hi.2535464096579857.)
+  #8 pmsrc/src/network/mcpe/raklib/RakLibInterface(192): pocketmine\network\mcpe\NetworkSession->handleEncoded(string[43] ..dd.w/..).t..L-2333d...02565131.435..05g..)
+  #9 pmsrc/vendor/pocketmine/raklib-ipc/src/RakLibToUserThreadMessageReceiver(42): pocketmine\network\mcpe\raklib\RakLibInterface->onPacketReceive(integer 2, string[52] ...'a....<i.X.......H.......#...0Wz..^.......\.s....)
+  #10 pmsrc/src/network/mcpe/raklib/RakLibInterface(122): raklib\server\ipc\RakLibToUserThreadMessageReceiver->handle(object pocketmine\network\mcpe\raklib\RakLibInterface#23636)
+  #11 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(123): pocketmine\network\mcpe\raklib\RakLibInterface->pocketmine\network\mcpe\raklib\{closure}()
+  #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(82): pocketmine\snooze\SleeperHandler->processNotifications()
+  #13 pmsrc/src/Server(1651): pocketmine\snooze\SleeperHandler->sleepUntil(double 1639657212.5432)
+  #14 pmsrc/src/Server(1038): pocketmine\Server->tickProcessor()
+  #15 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #16 pmsrc/src/PocketMine(326): pocketmine\server()
+  #17 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-16 [12:20:12.547] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-16 [12:20:12.552] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Thu_Dec_16-12.20.12-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-16 [12:20:12.914] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/5635483 or use the ID #5635483.
+2021-12-16 [12:20:12.914] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-16 [12:20:12.914] [Server thread/INFO]: Disabling MultiWorld v1.7.0-beta3
+2021-12-16 [12:20:12.914] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [12:20:12.914] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [12:20:12.915] [Server thread/INFO]: nanachan3006 left the game
+2021-12-16 [12:20:12.916] [Server thread/INFO]: [NetworkSession: nanachan3006] Session closed due to Server closed
+2021-12-16 [12:20:12.916] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [12:20:12.918] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to Server closed
+2021-12-16 [12:20:12.918] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:06:20.908] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:06:20.932] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:06:20.935] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:06:20.939] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:06:20.960] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [13:06:20.960] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:06:21.173] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:06:21.200] [Server thread/ERROR]: Could not load plugin '/root/mcpe/plugins/BlockCMD.phar': Invalid plugin manifest: Invalid Plugin "permissions": Nested permission declarations are no longer supported. Declare each permission separately.
+2021-12-16 [13:06:21.201] [Server thread/ERROR]: Could not load plugin '/root/mcpe/plugins/Slapper.phar': Invalid plugin manifest: Invalid Plugin "permissions": Nested permission declarations are no longer supported. Declare each permission separately.
+2021-12-16 [13:06:21.202] [Server thread/ERROR]: Could not load plugin 'AutoClearLagg': Incompatible API version (plugin requires one of: 3.0.0)
+2021-12-16 [13:06:21.202] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:06:21.206] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:06:21.377] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:06:21.385] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:06:21.388] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:06:21.415] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:06:21.415] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:06:21.428] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:06:21.428] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:06:21.429] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [13:06:21.429] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:06:21.429] [Server thread/INFO]: Done (0.522s)! For help, type "help" or "?"
+2021-12-16 [13:06:21.762] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [13:06:21.762] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [13:06:21.762] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [13:06:43.935] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [13:06:43.936] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:06:43.936] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:06:43.936] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:06:44.173] [Server thread/INFO]: Stopping other threads
+2021-12-16 [13:10:00.384] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:10:00.413] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:10:00.417] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:10:00.421] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:10:00.444] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [13:10:00.444] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:10:00.672] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:10:00.700] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:10:00.710] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:10:00.715] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:10:00.715] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:10:00.792] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:10:00.799] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:10:00.812] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:10:00.813] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:10:00.815] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:10:00.842] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:10:00.843] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:10:00.855] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:10:00.855] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:10:00.856] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [13:10:00.856] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:10:00.857] [Server thread/INFO]: Done (0.474s)! For help, type "help" or "?"
+2021-12-16 [13:10:01.253] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [13:10:01.253] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [13:10:01.253] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [13:10:05.362] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [13:10:05.363] [Server thread/INFO]: Disabling VanishV2 v3.0.2
+2021-12-16 [13:10:05.363] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [13:10:05.364] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:10:05.364] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:10:05.364] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:10:05.568] [Server thread/INFO]: Stopping other threads
+2021-12-16 [13:10:36.647] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:10:36.670] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:10:36.674] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:10:36.677] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:10:36.699] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [13:10:36.700] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:10:36.917] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:10:36.939] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:10:36.947] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:10:36.952] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:10:36.954] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:10:37.036] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:10:37.043] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:10:37.045] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:10:37.047] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:10:37.058] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:10:37.086] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:10:37.087] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:10:37.100] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:10:37.100] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:10:37.101] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [13:10:37.101] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:10:37.101] [Server thread/INFO]: Done (0.455s)! For help, type "help" or "?"
+2021-12-16 [13:10:37.256] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [13:10:37.257] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [13:10:37.257] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [13:12:44.273] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4816] Session opened
+2021-12-16 [13:12:44.968] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4816] Player: GuiltyFlyer6661
+2021-12-16 [13:12:48.290] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.11:4816] logged in with entity id 1 at (world, 284.1306, 65, 366.6003)
+2021-12-16 [13:12:53.410] [Server thread/INFO]: [NetworkSession: 36.85.39.173 5393] Session opened
+2021-12-16 [13:12:53.760] [Server thread/INFO]: [NetworkSession: 36.85.39.173 5393] Player: nanachan3006
+2021-12-16 [13:12:55.228] [Server thread/INFO]: nanachan3006[/36.85.39.173:5393] logged in with entity id 2 at (world, 259.3455, 66, 318.4647)
+2021-12-16 [13:13:13.197] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [13:13:56.687] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [13:14:17.371] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 18000]
+2021-12-16 [13:14:28.111] [Server thread/INFO]: [GuiltyFlyer6661: Teleported nanachan3006 to GuiltyFlyer6661]
+2021-12-16 [13:14:47.164] [Server thread/CRITICAL]: TypeError: "natof\rankEasy\manager\ConfigManager::getColorRank(): Return value must be of type string, null returned" (EXCEPTION) in "plugins/rankEasy.phar/src/natof/rankEasy/manager/ConfigManager" at line 35
+--- Stack trace ---
+  #0 plugins/rankEasy.phar/src/natof/rankEasy/event/PlayerListener(28): natof\rankEasy\manager\ConfigManager->getColorRank(string[0] )
+  #1 pmsrc/src/event/RegisteredListener(75): natof\rankEasy\event\PlayerListener->onChat(object pocketmine\event\player\PlayerChatEvent#111491)
+  #2 pmsrc/src/event/Event(62): pocketmine\event\RegisteredListener->callEvent(object pocketmine\event\player\PlayerChatEvent#111491)
+  #3 pmsrc/src/player/Player(1341): pocketmine\event\Event->call()
+  #4 pmsrc/src/network/mcpe/handler/InGamePacketHandler(147): pocketmine\player\Player->chat(string[2] hi)
+  #5 pmsrc/vendor/pocketmine/bedrock-protocol/src/TextPacket(176): pocketmine\network\mcpe\handler\InGamePacketHandler->handleText(object pocketmine\network\mcpe\protocol\TextPacket#115471)
+  #6 pmsrc/src/network/mcpe/NetworkSession(395): pocketmine\network\mcpe\protocol\TextPacket->handle(object pocketmine\network\mcpe\handler\InGamePacketHandler#114352)
+  #7 pmsrc/src/network/mcpe/NetworkSession(358): pocketmine\network\mcpe\NetworkSession->handleDataPacket(object pocketmine\network\mcpe\protocol\TextPacket#115471, string[40] ....GuiltyFlyer6661.hi.2535464096579857.)
+  #8 pmsrc/src/network/mcpe/raklib/RakLibInterface(192): pocketmine\network\mcpe\NetworkSession->handleEncoded(string[43] ..dd.w/..).t..L-2333d...02565131.435..05g..)
+  #9 pmsrc/vendor/pocketmine/raklib-ipc/src/RakLibToUserThreadMessageReceiver(42): pocketmine\network\mcpe\raklib\RakLibInterface->onPacketReceive(integer 0, string[52] ....t...e..jY.q..<f..3N.....iP{"..D...OKS.+..9.P...`)
+  #10 pmsrc/src/network/mcpe/raklib/RakLibInterface(122): raklib\server\ipc\RakLibToUserThreadMessageReceiver->handle(object pocketmine\network\mcpe\raklib\RakLibInterface#23674)
+  #11 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(123): pocketmine\network\mcpe\raklib\RakLibInterface->pocketmine\network\mcpe\raklib\{closure}()
+  #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(82): pocketmine\snooze\SleeperHandler->processNotifications()
+  #13 pmsrc/src/Server(1651): pocketmine\snooze\SleeperHandler->sleepUntil(double 1639660487.2069)
+  #14 pmsrc/src/Server(1038): pocketmine\Server->tickProcessor()
+  #15 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #16 pmsrc/src/PocketMine(326): pocketmine\server()
+  #17 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-16 [13:14:47.166] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-16 [13:14:47.172] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Thu_Dec_16-13.14.47-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-16 [13:14:48.034] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/5635669 or use the ID #5635669.
+2021-12-16 [13:14:48.034] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-16 [13:14:48.034] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:14:48.035] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:14:48.035] [Server thread/INFO]: Disabling VanishV2 v3.0.2
+2021-12-16 [13:14:48.036] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [13:14:48.036] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [13:14:48.038] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to Server closed
+2021-12-16 [13:14:48.038] [Server thread/INFO]: nanachan3006 left the game
+2021-12-16 [13:14:48.040] [Server thread/INFO]: [NetworkSession: nanachan3006] Session closed due to Server closed
+2021-12-16 [13:14:48.041] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:17:52.208] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:17:52.232] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:17:52.235] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:17:52.239] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:17:52.260] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [13:17:52.261] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:17:52.478] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:17:52.508] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:17:52.513] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:17:52.515] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:17:52.518] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:17:52.601] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:17:52.608] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:17:52.612] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:17:52.614] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:17:52.625] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:17:52.653] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:17:52.653] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:17:52.666] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:17:52.666] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:17:52.667] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-16 [13:17:52.667] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:17:52.667] [Server thread/INFO]: Done (0.46s)! For help, type "help" or "?"
+2021-12-16 [13:17:53.056] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [13:17:53.057] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [13:17:53.057] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [13:19:03.874] [Server thread/INFO]: [NetworkSession: 36.85.39.173 27367] Session opened
+2021-12-16 [13:19:04.117] [Server thread/INFO]: [NetworkSession: 36.85.39.173 27367] Player: nanachan3006
+2021-12-16 [13:19:05.636] [Server thread/INFO]: nanachan3006[/36.85.39.173:27367] logged in with entity id 1 at (world, 281.0631, 65, 367.2937)
+2021-12-16 [13:19:23.502] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4819] Session opened
+2021-12-16 [13:19:24.258] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4819] Player: GuiltyFlyer6661
+2021-12-16 [13:19:24.971] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [13:19:27.251] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.11:4819] logged in with entity id 2 at (world, 282.3779, 65, 366.1997)
+2021-12-16 [13:20:36.826] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [13:20:49.298] [Server thread/INFO]: [GuiltyFlyer6661: Set the time to 6000]
+2021-12-16 [13:22:12.335] [Server thread/INFO]: [NetworkSession: nanachan3006] Session closed due to Kicked by admin.
+2021-12-16 [13:22:12.336] [Server thread/INFO]: nanachan3006 left the game
+2021-12-16 [13:22:12.338] [Server thread/INFO]: [GuiltyFlyer6661: Kicked nanachan3006 from the game]
+2021-12-16 [13:22:40.383] [Server thread/INFO]: [NetworkSession: 36.85.39.173 27367] Session opened
+2021-12-16 [13:22:40.802] [Server thread/INFO]: [NetworkSession: 36.85.39.173 27367] Player: nanachan3006
+2021-12-16 [13:22:42.270] [Server thread/INFO]: nanachan3006[/36.85.39.173:27367] logged in with entity id 28 at (world, 291.1456, 65, 366.5147)
+2021-12-16 [13:23:02.111] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [13:24:07.156] [Server thread/INFO]: [GuiltyFlyer6661: Set nanachan3006's game mode to Survival Mode]
+2021-12-16 [13:24:45.690] [Server thread/INFO]: [GuiltyFlyer6661: Cleared the inventory of nanachan3006, removing 75 items]
+2021-12-16 [13:25:00.207] [Server thread/CRITICAL]: TypeError: "natof\rankEasy\manager\ConfigManager::getColorRank(): Return value must be of type string, null returned" (EXCEPTION) in "plugins/rankEasy.phar/src/natof/rankEasy/manager/ConfigManager" at line 35
+--- Stack trace ---
+  #0 plugins/rankEasy.phar/src/natof/rankEasy/event/PlayerListener(28): natof\rankEasy\manager\ConfigManager->getColorRank(string[0] )
+  #1 pmsrc/src/event/RegisteredListener(75): natof\rankEasy\event\PlayerListener->onChat(object pocketmine\event\player\PlayerChatEvent#95879)
+  #2 pmsrc/src/event/Event(62): pocketmine\event\RegisteredListener->callEvent(object pocketmine\event\player\PlayerChatEvent#95879)
+  #3 pmsrc/src/player/Player(1341): pocketmine\event\Event->call()
+  #4 pmsrc/src/network/mcpe/handler/InGamePacketHandler(147): pocketmine\player\Player->chat(string[3] lah)
+  #5 pmsrc/vendor/pocketmine/bedrock-protocol/src/TextPacket(176): pocketmine\network\mcpe\handler\InGamePacketHandler->handleText(object pocketmine\network\mcpe\protocol\TextPacket#91290)
+  #6 pmsrc/src/network/mcpe/NetworkSession(395): pocketmine\network\mcpe\protocol\TextPacket->handle(object pocketmine\network\mcpe\handler\InGamePacketHandler#114206)
+  #7 pmsrc/src/network/mcpe/NetworkSession(358): pocketmine\network\mcpe\NetworkSession->handleDataPacket(object pocketmine\network\mcpe\protocol\TextPacket#91290, string[38] ....nanachan3006.lah.2535460053222890.)
+  #8 pmsrc/src/network/mcpe/raklib/RakLibInterface(192): pocketmine\network\mcpe\NetworkSession->handleEncoded(string[41] S.dd..K.KL.H.3600c.I..0256513005622..4`..)
+  #9 pmsrc/vendor/pocketmine/raklib-ipc/src/RakLibToUserThreadMessageReceiver(42): pocketmine\network\mcpe\raklib\RakLibInterface->onPacketReceive(integer 2, string[50] .d.......\..)_a.....>"F7U......,.._./~..*.j2....r.)
+  #10 pmsrc/src/network/mcpe/raklib/RakLibInterface(122): raklib\server\ipc\RakLibToUserThreadMessageReceiver->handle(object pocketmine\network\mcpe\raklib\RakLibInterface#23675)
+  #11 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(123): pocketmine\network\mcpe\raklib\RakLibInterface->pocketmine\network\mcpe\raklib\{closure}()
+  #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(82): pocketmine\snooze\SleeperHandler->processNotifications()
+  #13 pmsrc/src/Server(1651): pocketmine\snooze\SleeperHandler->sleepUntil(double 1639661100.2226)
+  #14 pmsrc/src/Server(1038): pocketmine\Server->tickProcessor()
+  #15 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #16 pmsrc/src/PocketMine(326): pocketmine\server()
+  #17 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-16 [13:25:00.208] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-16 [13:25:00.213] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Thu_Dec_16-13.25.00-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-16 [13:25:01.043] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/5635709 or use the ID #5635709.
+2021-12-16 [13:25:01.043] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-16 [13:25:01.044] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [13:25:01.044] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:25:01.044] [Server thread/INFO]: Disabling VanishV2 v3.0.2
+2021-12-16 [13:25:01.045] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:25:01.045] [Server thread/INFO]: GuiltyFlyer6661 left the game
+2021-12-16 [13:25:01.048] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to Server closed
+2021-12-16 [13:25:01.049] [Server thread/INFO]: nanachan3006 left the game
+2021-12-16 [13:25:01.051] [Server thread/INFO]: [NetworkSession: nanachan3006] Session closed due to Server closed
+2021-12-16 [13:25:01.052] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:27:44.608] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:27:44.631] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:27:44.634] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:27:44.637] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:27:44.659] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.2
+2021-12-16 [13:27:44.659] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:27:44.872] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:27:44.894] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:27:44.902] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:27:44.908] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:27:44.908] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:27:45.069] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:27:45.076] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:27:45.077] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:27:45.079] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:27:45.081] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:27:45.119] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:27:45.119] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:27:45.132] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:27:45.132] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:27:45.133] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-16 [13:27:45.133] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:27:45.133] [Server thread/INFO]: Done (0.526s)! For help, type "help" or "?"
+2021-12-16 [13:27:45.437] [Server thread/WARNING]: [Update Checker] Your version of PocketMine-MP is out of date. Version 4.0.3 was released on Thu Dec 16 01:36:17 2021
+2021-12-16 [13:27:45.437] [Server thread/WARNING]: [Update Checker] Details: https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.3
+2021-12-16 [13:27:45.437] [Server thread/WARNING]: [Update Checker] Download: https://github.com/pmmp/PocketMine-MP/releases/download/4.0.3/PocketMine-MP.phar
+2021-12-16 [13:30:28.888] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-16 [13:30:28.890] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:30:28.890] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [13:30:28.891] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:30:28.891] [Server thread/INFO]: Disabling VanishV2 v3.0.2
+2021-12-16 [13:30:28.891] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:30:29.114] [Server thread/INFO]: Stopping other threads
+2021-12-16 [13:32:28.478] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:32:28.501] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:32:28.504] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:32:28.507] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:32:28.528] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.3
+2021-12-16 [13:32:28.528] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:32:28.753] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:32:28.774] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:32:28.783] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:32:28.789] [Server thread/INFO]: Loading RankEasy v1.0.1
+2021-12-16 [13:32:28.789] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:32:28.919] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:32:28.926] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:32:28.929] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:32:28.940] [Server thread/INFO]: Enabling RankEasy v1.0.1
+2021-12-16 [13:32:28.941] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:32:28.968] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:32:28.969] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:32:28.982] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:32:28.982] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:32:28.982] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-16 [13:32:28.983] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:32:28.983] [Server thread/INFO]: Done (0.506s)! For help, type "help" or "?"
+2021-12-16 [13:34:06.557] [Server thread/INFO]: [NetworkSession: 36.75.170.49 47368] Session opened
+2021-12-16 [13:34:06.796] [Server thread/INFO]: [NetworkSession: 36.75.170.49 47368] Player: NercyChan
+2021-12-16 [13:34:07.701] [Server thread/INFO]: NercyChan[/36.75.170.49:47368] logged in with entity id 1 at (world, 256, 52, 256)
+2021-12-16 [13:34:17.694] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to timeout
+2021-12-16 [13:36:35.374] [Server thread/INFO]: [NetworkSession: 36.85.39.173 25158] Session opened
+2021-12-16 [13:36:36.321] [Server thread/INFO]: [NetworkSession: 36.85.39.173 25158] Player: nanachan3006
+2021-12-16 [13:36:37.816] [Server thread/INFO]: nanachan3006[/36.85.39.173:25158] logged in with entity id 67 at (world, 273.6641, 64, 359.7347)
+2021-12-16 [13:36:57.183] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [13:37:20.210] [Server thread/INFO]: Unknown command: ttell. Use /help for a list of available commands.
+2021-12-16 [13:37:41.247] [Server thread/INFO]: You whisper to nanachan3006: Welcome To My Server Bro
+2021-12-16 [13:37:41.247] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: Welcome To My Server Bro]
+2021-12-16 [13:38:00.023] [Server thread/CRITICAL]: TypeError: "natof\rankEasy\manager\ConfigManager::getColorRank(): Return value must be of type string, null returned" (EXCEPTION) in "plugins/rankEasy.phar/src/natof/rankEasy/manager/ConfigManager" at line 35
+--- Stack trace ---
+  #0 plugins/rankEasy.phar/src/natof/rankEasy/event/PlayerListener(28): natof\rankEasy\manager\ConfigManager->getColorRank(string[0] )
+  #1 pmsrc/src/event/RegisteredListener(75): natof\rankEasy\event\PlayerListener->onChat(object pocketmine\event\player\PlayerChatEvent#92030)
+  #2 pmsrc/src/event/Event(62): pocketmine\event\RegisteredListener->callEvent(object pocketmine\event\player\PlayerChatEvent#92030)
+  #3 pmsrc/src/player/Player(1341): pocketmine\event\Event->call()
+  #4 pmsrc/src/network/mcpe/handler/InGamePacketHandler(147): pocketmine\player\Player->chat(string[8] saha? :v)
+  #5 pmsrc/vendor/pocketmine/bedrock-protocol/src/TextPacket(176): pocketmine\network\mcpe\handler\InGamePacketHandler->handleText(object pocketmine\network\mcpe\protocol\TextPacket#91984)
+  #6 pmsrc/src/network/mcpe/NetworkSession(395): pocketmine\network\mcpe\protocol\TextPacket->handle(object pocketmine\network\mcpe\handler\InGamePacketHandler#94934)
+  #7 pmsrc/src/network/mcpe/NetworkSession(358): pocketmine\network\mcpe\NetworkSession->handleDataPacket(object pocketmine\network\mcpe\protocol\TextPacket#91984, string[43] ....nanachan3006.saha? :v.2535460053222890.)
+  #8 pmsrc/src/network/mcpe/raklib/RakLibInterface(192): pocketmine\network\mcpe\NetworkSession->handleEncoded(string[46] ..dd..K.KL.H.3600.(N.H.W.*.0256513005622..4`..)
+  #9 pmsrc/vendor/pocketmine/raklib-ipc/src/RakLibToUserThreadMessageReceiver(42): pocketmine\network\mcpe\raklib\RakLibInterface->onPacketReceive(integer 0, string[55] ..(.W........rS.%!.:O1..,I...k%...J-.N..J.|G+.D ..6..$o)
+  #10 pmsrc/src/network/mcpe/raklib/RakLibInterface(122): raklib\server\ipc\RakLibToUserThreadMessageReceiver->handle(object pocketmine\network\mcpe\raklib\RakLibInterface#23691)
+  #11 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(123): pocketmine\network\mcpe\raklib\RakLibInterface->pocketmine\network\mcpe\raklib\{closure}()
+  #12 pmsrc/vendor/pocketmine/snooze/src/SleeperHandler(82): pocketmine\snooze\SleeperHandler->processNotifications()
+  #13 pmsrc/src/Server(1657): pocketmine\snooze\SleeperHandler->sleepUntil(double 1639661880.0377)
+  #14 pmsrc/src/Server(1044): pocketmine\Server->tickProcessor()
+  #15 pmsrc/src/PocketMine(303): pocketmine\Server->__construct(object BaseClassLoader#3, object pocketmine\utils\MainLogger#2, string[11] /root/mcpe/, string[19] /root/mcpe/plugins/)
+  #16 pmsrc/src/PocketMine(326): pocketmine\server()
+  #17 pmsrc(11): require(string[55] phar:///root/mcpe/PocketMine-MP.phar/src/PocketMine.php)
+--- End of exception information ---
+2021-12-16 [13:38:00.025] [Server thread/EMERGENCY]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2021-12-16 [13:38:00.029] [Server thread/EMERGENCY]: Please upload the "/root/mcpe/crashdumps/Thu_Dec_16-13.38.00-UTC_2021.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2021-12-16 [13:38:00.892] [Server thread/EMERGENCY]: The crash dump has been automatically submitted to the Crash Archive. You can view it on https://crash.pmmp.io/view/5635766 or use the ID #5635766.
+2021-12-16 [13:38:00.893] [Server thread/EMERGENCY]: Forcing server shutdown
+2021-12-16 [13:38:00.893] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [13:38:00.894] [Server thread/INFO]: Disabling VanishV2 v3.0.2
+2021-12-16 [13:38:00.894] [Server thread/INFO]: Disabling RankEasy v1.0.1
+2021-12-16 [13:38:00.895] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [13:38:00.895] [Server thread/INFO]: nanachan3006 left the game
+2021-12-16 [13:38:00.899] [Server thread/INFO]: [NetworkSession: nanachan3006] Session closed due to Server closed
+2021-12-16 [13:38:00.899] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [13:39:34.965] [Server thread/INFO]: Loading server configuration
+2021-12-16 [13:39:34.988] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [13:39:34.992] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [13:39:34.995] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [13:39:35.017] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.3
+2021-12-16 [13:39:35.017] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [13:39:35.234] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [13:39:35.259] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [13:39:35.263] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [13:39:35.267] [Server thread/INFO]: Loading VanishV2 v3.0.2
+2021-12-16 [13:39:35.344] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [13:39:35.350] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [13:39:35.352] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [13:39:35.353] [Server thread/INFO]: Enabling VanishV2 v3.0.2
+2021-12-16 [13:39:35.389] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [13:39:35.390] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [13:39:35.402] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [13:39:35.403] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [13:39:35.403] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-16 [13:39:35.404] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [13:39:35.404] [Server thread/INFO]: Done (0.44s)! For help, type "help" or "?"
+2021-12-16 [13:39:56.147] [Server thread/INFO]: [NetworkSession: 36.85.39.173 25158] Session opened
+2021-12-16 [13:39:56.477] [Server thread/INFO]: [NetworkSession: 36.85.39.173 25158] Player: nanachan3006
+2021-12-16 [13:39:57.758] [Server thread/INFO]: [NetworkSession: 36.75.170.49 47368] Session opened
+2021-12-16 [13:39:58.220] [Server thread/INFO]: [NetworkSession: 36.75.170.49 47368] Player: NercyChan
+2021-12-16 [13:39:58.303] [Server thread/INFO]: nanachan3006[/36.85.39.173:25158] logged in with entity id 1 at (world, 245.8204, 64, 338.6585)
+2021-12-16 [13:39:59.562] [Server thread/INFO]: NercyChan[/36.75.170.49:47368] logged in with entity id 2 at (world, 256, 52, 256)
+2021-12-16 [13:40:09.574] [Server thread/INFO]: [NetworkSession: NercyChan] Session closed due to timeout
+2021-12-16 [13:40:18.422] [Server thread/INFO]: nanachan3006 joined the game
+2021-12-16 [13:40:59.207] [Server thread/INFO]: You whisper to nanachan3006: hai babi
+2021-12-16 [13:40:59.208] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: hai babi]
+2021-12-16 [13:41:09.261] [Server thread/INFO]: <nanachan3006> as
+2021-12-16 [13:41:30.579] [Server thread/INFO]: You whisper to nanachan3006: sehat?
+2021-12-16 [13:41:30.579] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: sehat?]
+2021-12-16 [13:41:44.019] [Server thread/INFO]: <nanachan3006> kgk
+2021-12-16 [13:41:47.289] [Server thread/INFO]: You whisper to nanachan3006: gue pantau lu di vps
+2021-12-16 [13:41:47.289] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: gue pantau lu di vps]
+2021-12-16 [13:42:05.290] [Server thread/INFO]: <nanachan3006> anj curanggggg
+2021-12-16 [13:42:19.799] [Server thread/INFO]: You whisper to nanachan3006: gak curang kok
+2021-12-16 [13:42:19.799] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: gak curang kok]
+2021-12-16 [13:42:28.090] [Server thread/INFO]: [CONSOLE: Opped nanachan3006]
+2021-12-16 [13:42:42.628] [Server thread/INFO]: <nanachan3006> haa? :v
+2021-12-16 [13:42:47.776] [Server thread/INFO]: You whisper to nanachan3006: tuh udah gue operator kan
+2021-12-16 [13:42:47.777] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: tuh udah gue operator kan]
+2021-12-16 [13:43:05.700] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-16 [13:43:05.700] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-12-16 [13:43:05.700] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-12-16 [13:43:05.700] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /clear: Clears items from player inventory
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /coordinates: Toggle on/off coordinates.
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-12-16 [13:43:05.701] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-12-16 [13:43:05.702] [Server thread/INFO]: /help: Shows the help menu
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /image: Image on map commands
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /list: Lists all online players
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /particle: Adds particles to a world
+2021-12-16 [13:43:05.703] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /seed: Shows the world seed
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /setworldspawn: Sets a world's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /stop: Stops the server
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /time: Changes the time on each world
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-12-16 [13:43:05.704] [Server thread/INFO]: /title: Controls screen titles
+2021-12-16 [13:43:05.705] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-12-16 [13:43:05.705] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-12-16 [13:43:05.705] [Server thread/INFO]: /vanish: Enter vanish mode
+2021-12-16 [13:43:05.705] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-12-16 [13:43:05.705] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-12-16 [13:43:10.287] [Server thread/INFO]: <nanachan3006> gmn:v
+2021-12-16 [13:43:49.319] [Server thread/INFO]: You whisper to nanachan3006: coba ketik /gamemode c nanachan3006 di chat ny
+2021-12-16 [13:43:49.319] [Server thread/INFO]: [CONSOLE: You whisper to nanachan3006: coba ketik /gamemode c nanachan3006 di chat ny]
+2021-12-16 [13:44:54.628] [Server thread/INFO]: [Server] sehat banh?
+2021-12-16 [13:45:27.617] [Server thread/INFO]: <nanachan3006> gatau mls
+2021-12-16 [13:46:20.392] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4822] Session opened
+2021-12-16 [13:46:21.025] [Server thread/INFO]: [NetworkSession: 202.67.47.11 4822] Player: GuiltyFlyer6661
+2021-12-16 [13:46:23.964] [Server thread/INFO]: GuiltyFlyer6661[/202.67.47.11:4822] logged in with entity id 136 at (world, 273.3466, 64, 360.3364)
+2021-12-16 [13:47:30.045] [Server thread/INFO]: GuiltyFlyer6661 joined the game
+2021-12-16 [13:47:47.079] [Server thread/INFO]: <GuiltyFlyer6661> hai kontol
+2021-12-16 [13:47:56.774] [Server thread/INFO]: <nanachan3006> kok brsa main sndiri:)
+2021-12-16 [13:48:10.779] [Server thread/INFO]: <GuiltyFlyer6661> lawack
+2021-12-16 [13:48:24.212] [Server thread/INFO]: <nanachan3006> gw sndiri:v
+2021-12-16 [13:48:29.249] [Server thread/INFO]: <nanachan3006> trsesad
+2021-12-16 [13:48:31.813] [Server thread/INFO]: [GuiltyFlyer6661: Set nanachan3006's game mode to Creative Mode]
+2021-12-16 [13:48:52.168] [Server thread/INFO]: [GuiltyFlyer6661: Teleported nanachan3006 to GuiltyFlyer6661]
+2021-12-16 [13:49:01.179] [Server thread/INFO]: <nanachan3006> :v
+2021-12-16 [13:50:04.458] [Server thread/INFO]: <GuiltyFlyer6661> buat rumah nan
+2021-12-16 [13:53:20.315] [Server thread/INFO]: <nanachan3006> lu ngpin diatas
+2021-12-16 [13:54:29.876] [Server thread/INFO]: <nanachan3006> ngen
+2021-12-16 [13:54:50.370] [Server thread/INFO]: <nanachan3006> woi gerakkkkk:v
+2021-12-16 [13:55:30.823] [Server thread/INFO]: [NetworkSession: GuiltyFlyer6661] Session closed due to timeout
+2021-12-16 [14:00:14.767] [Server thread/INFO]: Loading server configuration
+2021-12-16 [14:00:14.792] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-16 [14:00:14.795] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-16 [14:00:14.799] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-16 [14:00:14.820] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.3
+2021-12-16 [14:00:14.820] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-16 [14:00:15.039] [Server thread/INFO]: Loading resource packs...
+2021-12-16 [14:00:15.066] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-16 [14:00:15.069] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-16 [14:00:15.231] [Server thread/INFO]: Preparing world "world"
+2021-12-16 [14:00:15.238] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-16 [14:00:15.240] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-16 [14:00:15.268] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-16 [14:00:15.268] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-16 [14:00:15.280] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-16 [14:00:15.281] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-16 [14:00:15.281] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-16 [14:00:15.282] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-16 [14:00:15.282] [Server thread/INFO]: Done (0.515s)! For help, type "help" or "?"
+2021-12-16 [23:07:51.459] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-16 [23:07:51.459] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-16 [23:07:51.460] [Server thread/INFO]: Unloading world "world"
+2021-12-16 [23:08:06.456] [Server thread/INFO]: Stopping other threads
+2021-12-26 [07:13:14.677] [Server thread/INFO]: Loading server configuration
+2021-12-26 [07:13:14.695] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-26 [07:13:14.698] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-26 [07:13:14.700] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-26 [07:13:14.714] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.3
+2021-12-26 [07:13:14.714] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-26 [07:13:14.879] [Server thread/INFO]: Loading resource packs...
+2021-12-26 [07:13:14.895] [Server thread/INFO]: Loading VanillaCoordinates v1.1.0
+2021-12-26 [07:13:14.898] [Server thread/INFO]: Loading ImageOnMap v1.0.0
+2021-12-26 [07:13:14.962] [Server thread/INFO]: Preparing world "world"
+2021-12-26 [07:13:14.972] [Server thread/INFO]: Enabling VanillaCoordinates v1.1.0
+2021-12-26 [07:13:14.974] [Server thread/INFO]: Enabling ImageOnMap v1.0.0
+2021-12-26 [07:13:15.001] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-26 [07:13:15.002] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-26 [07:13:15.020] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-26 [07:13:15.021] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-26 [07:13:15.021] [Server thread/INFO]: Default game type: Survival Mode
+2021-12-26 [07:13:15.021] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-26 [07:13:15.022] [Server thread/INFO]: Done (0.345s)! For help, type "help" or "?"
+2021-12-26 [07:13:52.176] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-26 [07:13:52.177] [Server thread/INFO]: Disabling VanillaCoordinates v1.1.0
+2021-12-26 [07:13:52.178] [Server thread/INFO]: Disabling ImageOnMap v1.0.0
+2021-12-26 [07:13:52.178] [Server thread/INFO]: Unloading world "world"
+2021-12-26 [07:13:52.219] [Server thread/INFO]: Stopping other threads
